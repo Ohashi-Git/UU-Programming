@@ -2,9 +2,9 @@
 
 int main(void){
 
-	printf("HŠw•”\n");
+	printf("å·¥å­¦éƒ¨â€\n");
 	printf("000000A\n");
-	printf("››@››\n");
+	printf("â—‹â—‹ã€€â—‹â—‹\n");
 
 	return 0;
 }
